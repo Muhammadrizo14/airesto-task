@@ -18,5 +18,5 @@ export default defineConfig({
   build: {
     cssCodeSplit: false,
   },
-  base: '/airesto-vuejs/'
+  base: '/'
 })
